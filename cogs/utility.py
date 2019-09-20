@@ -319,16 +319,16 @@ class Utility(commands.Cog):
             footer = "You are up to date with the latest version."
 
         embed.add_field(
-            name="GitHub", value="https://github.com/kyb3r/modmail", inline=False
+            name="GitHub", value="https://github.com/LazyButking/modmail", inline=False
         )
 
         embed.add_field(
-            name="Discord Server", value="https://discord.gg/F34cRU8", inline=False
+            name="Discord Server", value="https://discord.gg/pPnWwHd", inline=False
         )
 
         embed.add_field(
-            name="Donate",
-            value="Support this bot on [`Patreon`](https://patreon.com/kyber).",
+            name="Join Us",
+            value="Support this bot on [`Gxkiller`](www.gxkiller.com).",
         )
 
         embed.set_footer(text=footer)
